@@ -14,10 +14,10 @@ The trained model can distinguish different audio classes based on learned patte
 
 ## 🚀 Features
 
-✅ Converts audio files to spectrogram images
-✅ Trains a deep learning CNN for audio classification
-✅ Achieves high accuracy by leveraging image-based analysis of sound
-✅ Clear visualization of spectrograms and model performance
+✅ Converts audio files to spectrogram images<br>
+✅ Trains a deep learning CNN for audio classification<br>
+✅ Achieves high accuracy by leveraging image-based analysis of sound<br>
+✅ Clear visualization of spectrograms and model performance<br>
 
 ---
 
